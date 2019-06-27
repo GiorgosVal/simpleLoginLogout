@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/services/CarService.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/dao/Dao.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/controllers/LoginServlet.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/dao/UserDao.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/dao/CarDao.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/entities/User.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/entities/Car.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/controllers/CarsServlet.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/htmlcomponents/HtmlComponents.java</file>
+            <file>file:/home/giorgos/NetBeansProjects/simpleLoginLogout/src/java/services/LoginService.java</file>
+        </group>
+    </open-files>
+</project-private>
